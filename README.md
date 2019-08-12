@@ -1,7 +1,7 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Project
 Keyvan Tajbakhsh  
-August 12st, 2019
+August 12th, 2019
 
 # Customer Segmentation for Arvato Financial Services
 
